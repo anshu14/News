@@ -1,0 +1,7 @@
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\classes\debug
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-999021b93ca4c8054ae4051dc80f55394a75dbd0.jar
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\gcm-1538c7d9d778a00fda982e22f32ece60a2e73699.jar
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\classes-4c1bdb045b3b6921926cb9e406632a0d2399feac.jar
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-5d7f8b8e5078203490e6e49a9cbf0d40f77ea139.jar
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\classes-3d6a02443eeef1d824f46a3c73fa12e3ffd7843f.jar
+C:\Users\Anshu Kumar\ApnaKawardha\platforms\android\build\intermediates\pre-dexed\debug\google-play-services-cf8236dbfa4296fb00172484702562e1d6c28e72.jar

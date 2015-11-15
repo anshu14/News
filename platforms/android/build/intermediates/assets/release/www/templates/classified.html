@@ -1,0 +1,40 @@
+
+<ion-view view-title="Classifieds">
+
+  <ion-content class="padding log">
+  
+<div class="list li">
+
+ 
+ <!-- <form name="searchForm"> -->
+
+
+<ion-refresher on-refresh="update(user)"></ion-refresher>
+  <div class="list" ng-if="!add.length">
+  
+  </div>
+    <div class="item item-divider loga">
+   <center><B>Top Classifieds</B></center>
+  </div>
+
+  
+  <div class="list" ng-repeat="dei in classi">
+   <a class="item item-image">
+   <img src="{{dei.image}}">
+   <!-- <h2>{{detail.title}}</h2>
+   <p>{{detail.description}}</p> -->
+   </a>
+  </div>
+
+
+
+<!-- <input type="submit" class="button button-assertive button-block font" value="Submit"></button> -->
+<!-- <button class="button button-full button-assertive" ng-click="sendSMS()">Send SMS</button>
+ -->
+ 
+<!--  </form> -->
+
+  
+  </ion-content>
+
+</ion-view>

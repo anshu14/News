@@ -1,0 +1,32 @@
+C:\Users\Anshu Kumar\ApnaKawardha>keytool -genkey -v -keystore ApnaKawardha.keys
+tore -alias ApnaKawardha -keyalg RSA -keysize 2048 -validity 10000
+Enter keystore password:
+Keystore password is too short - must be at least 6 characters
+Enter keystore password:
+Keystore password is too short - must be at least 6 characters
+Enter keystore password:password
+Re-enter new password:password
+What is your first and last name?
+  [Unknown]:  Ashish Soni
+What is the name of your organizational unit?
+  [Unknown]:  Apna Kawardha
+What is the name of your organization?
+  [Unknown]:  Apna Kawardha
+What is the name of your City or Locality?
+  [Unknown]:  Kawardha
+What is the name of your State or Province?
+  [Unknown]:  Chattishgarh
+What is the two-letter country code for this unit?
+  [Unknown]:  91
+Is CN=Ashish Soni, OU=Apna Kawardha, O=Apna Kawardha, L=Kawardha, ST=Chattishgar
+h, C=91 correct?
+  [no]:  Y
+
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA256withRSA) wi
+th a validity of 10,000 days
+        for: CN=Ashish Soni, OU=Apna Kawardha, O=Apna Kawardha, L=Kawardha, ST=C
+hattishgarh, C=91
+Enter key password for <ApnaKawardha>
+        (RETURN if same as keystore password):password
+Re-enter new password:password
+[Storing ApnaKawardha.keystore]
